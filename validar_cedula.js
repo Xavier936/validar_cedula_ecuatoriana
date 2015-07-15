@@ -3,7 +3,6 @@
  *
  * Copyleft (f) 2015 Jonathan Bravo <jjbravo88@gmail.com>;
  * Licensed under the MIT license */
-
 ;(function( Validar, undefined ){
 
 	Validar.cedula = function(cedula){
