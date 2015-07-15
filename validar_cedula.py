@@ -3,7 +3,6 @@
 # *
 # * Copyleft (f) 2015 Jonathan Bravo <jjbravo88@gmail.com>;
 # * Licensed under the MIT license 
-
 def validarCedula(cedula):
     #verifica que los dos primeros dígitos correspondan a un valor entre 1 y NUMERO_DE_PROVINCIAS
     prov = int(cedula[0:2])
